@@ -22,7 +22,7 @@ function intentar() {
   ROW.className = 'row';
 
   if (INTENTO === palabra) {
-    terminar("<h1><span style='color: red;'>¡PARABENS, VC GANHOU!🤩</span></h1>");
+    terminar("<h1><span style='color: red;'>¡PARABENS, VC GANHOU!</span></h1>");
     //console.log(¡PARABENS, VC GANHOU!)
     return;
   }
